@@ -1,0 +1,13 @@
+17:24:34,745 gausspyplus.utils.output INFO 
+calculating average rms from data...
+17:24:35,0 gausspyplus.utils.output INFO >> calculated rms value of 0.134 from data
+17:24:35,0 gausspyplus.utils.output INFO 
+===================
+GaussPy preparation
+===================
+17:24:35,0 gausspyplus.utils.output INFO 
+preparing GaussPy cube...
+17:24:37,650 gausspyplus.utils.output INFO 
+pickle dump dictionary...
+17:24:37,661 gausspyplus.utils.output INFO 
+[92mSAVED FILE:[0m 'grs-test_field_noise_map.fits' in 'decomposition_grs\gpy_maps'
